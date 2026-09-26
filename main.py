@@ -1,1 +1,1 @@
-print("¡Hola! Saludo desde la rama funcionalidad.")
+print("¡Hola! Saludos a todos")
